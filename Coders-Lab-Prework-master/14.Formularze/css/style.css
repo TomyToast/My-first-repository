@@ -1,0 +1,12 @@
+.form{
+    border: 1px solid lightblue;
+    width: 300px;
+    padding: 30px;
+    float:left;
+}
+.place{
+    width: 300px;
+}
+.area{
+    height: 150px;
+}

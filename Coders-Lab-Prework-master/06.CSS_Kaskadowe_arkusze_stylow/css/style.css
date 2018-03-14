@@ -1,0 +1,15 @@
+body{
+    background-color: blue;
+}
+.zielony{
+    color:lightgreen;
+}
+.fioletowy{
+    color:violet;
+}
+.brazowy{
+    color:brown;
+}
+.block{
+    border: 0.5px solid yellow;
+}
